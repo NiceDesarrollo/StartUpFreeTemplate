@@ -29,7 +29,7 @@ Copy the .env.example file in this directory to .env (which will be ignored by G
 cp .env.example .env
 ```
 
-Add details providers (GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GITHUB_ID, GITHUB_SECRET, NEXTAUTH_URL, MONGODB_URI), and your next auth url base for example: http://localhost:3000.
+Add details providers ([Google](https://console.cloud.google.com/apis/credentials), [Github](https://github.com/settings/developers) , NEXTAUTH_URL, MONGODB_URI), and your next auth url base for example: http://localhost:3000.
 
 
 
