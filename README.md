@@ -33,23 +33,6 @@ Add details providers (GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GITHUB_ID, GITHUB
 
 
 
-# auth-example
-
-## Work flow
-
-### Home screen
-!["Home screen"](https://github.com/NiceDesarrollo/auth-example/blob/main/home.PNG)
-
-### Login screen
-!["Login screen"](https://github.com/NiceDesarrollo/auth-example/blob/main/Login.PNG)
-
-### Sign up screen
-!["Sign up"](https://github.com/NiceDesarrollo/auth-example/blob/main/Sign%20up.PNG)
-
-### Dashboard screen
-!["Dashboard"](https://github.com/NiceDesarrollo/auth-example/blob/main/Dashboard.PNG)
-
-
 
 
 # StartUpFreeTemplate
